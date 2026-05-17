@@ -17,8 +17,7 @@ Cyber styled Termux dashboard.
 pkg update -y
 pkg install git -y
 
-git clone https://github.com/imran6363/bangladesh-cyber-force-79-.git
-
+git clone https://github.com/bcf79/bangladesh-cyber-force-79-.git
 cd bangladesh-cyber-force-79
 
 bash install.sh
